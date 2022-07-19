@@ -75,3 +75,8 @@ img {
   flex-basis: 75%;
   flex-grow: 75%; 
   flex-shrink: 75%;}
+
+.snoska {
+  font-size:100%; 
+  line-height: 1.3rem;
+}
